@@ -18,7 +18,7 @@ These are the second mandatory tags that come, you know, second to the '!DOCTYPE
 ## Make a website
 Well, let's try out something together
 
-``` `<!DOCTYPE html`
+``` <!DOCTYPE html>
  `<html>`
 `<head>`
  `<title></title>`
@@ -26,6 +26,7 @@ Well, let's try out something together
  
  `</html>`
 
+```
 ## Glossary
 
 DTD: document type definition: a description of the different types of elements and markup tags allowable in a particular SGML, XML, or HTML document and where they can occur within the document.
