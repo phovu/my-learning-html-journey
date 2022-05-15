@@ -5,6 +5,6 @@ Hello, my name is Pho and I'm in my sophomore year at the time. I major in Infor
 I'm incredibly lucky to join Amherst College in Spring 2022. Out of the overabundant resources that the school provided its student with, I discovered a free ticket -- activated by amherst.edu email -- to all courses on my bucketlist 
 
 Okay, so just remember that everything starts with:
-"<!DOCTYPE html>"
+&lt!DOCTYPE html&gt
 
 <html> <html>
