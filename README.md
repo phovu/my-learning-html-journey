@@ -18,15 +18,19 @@ These are the second mandatory tags that come, you know, second to the '!DOCTYPE
 ## Make a website
 Well, let's try out something together
 
-``` <!DOCTYPE html>
- `<html>`
-`<head>`
- `<title></title>`
- `</head>`
+```<!DOCTYPE html>
+    <html>
+    
+     <head>
+        <meta charset = "utf-8">
+        <title>Hi, my name is Pho. Nice to meet you</title>
+     </head>
  
- `</html>`
-
+   </html>
 ```
 ## Glossary
 
 DTD: document type definition: a description of the different types of elements and markup tags allowable in a particular SGML, XML, or HTML document and where they can occur within the document.
+
+## Recommended Readings
+- Learning Web Design, 5th Edition
