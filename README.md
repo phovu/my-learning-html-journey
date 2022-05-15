@@ -1,8 +1,11 @@
 # My Learning HTML Journey
 
+## Briefly about me. i also hope we share something in common
 Hello, my name is Pho and I'm in my sophomore year at the time. I major in Information and Interaction Design at Yonsei. The major itself is a fancy way of saying UI/UX design. Nevertheless, my first and second year of university involved me with other things that actually put an infinite pause to my original plan of learning and maybe mastering in components of designing a web.
 
-I'm incredibly lucky to join Amherst College in Spring 2022. Out of the overabundant resources that the school provided its student with, I discovered a free ticket -- activated by amherst.edu email -- to all courses on my bucketlist 
+I'm incredibly lucky to join Amherst College in Spring 2022. Out of the overabundant resources that the school provided its student with, I discovered a free ticket -- activated by amherst.edu email -- to all courses on my bucketlist. I finally committed to one after hopping in and out of courses because of my fickle nature and my half-hearted determination in learning a thing in computer science.
+
+
 
 Okay, so just remember that everything starts with `!DOCTYPE html`
 
