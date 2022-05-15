@@ -18,13 +18,13 @@ These are the second mandatory tags that come, you know, second to the '!DOCTYPE
 ## Make a website
 Well, let's try out something together
 
- `<!DOCTYPE html
- <html>
- <head>
- <title></title>
- </head>
+``` `<!DOCTYPE html`
+ `<html>`
+`<head>`
+ `<title></title>`
+ `</head>`
  
- </html>`
+ `</html>`
 
 ## Glossary
 
