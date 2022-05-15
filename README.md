@@ -4,7 +4,13 @@ Hello, my name is Pho and I'm in my sophomore year at the time. I major in Infor
 
 I'm incredibly lucky to join Amherst College in Spring 2022. Out of the overabundant resources that the school provided its student with, I discovered a free ticket -- activated by amherst.edu email -- to all courses on my bucketlist 
 
-Okay, so just remember that everything starts with:
-&lt!DOCTYPE html&gt
+Okay, so just remember that everything starts with `!DOCTYPE html`
 
-<html> <html>
+`!DOCTYPE html` is the first line that you have to start with on any HTML document. It is like a phrase that signals to the browser that the language they will communicate with each other from now on will be switched to all-HTML. Imagine you and your besties were bilingual and you guys could speak English as a second language with indetical mother tongue (say, Vietnamese). Sometimes, it is inevitable that you guys may do some code-switching between Vietnamese and English and one of you have to start with something to initiate that conversation's setting.
+
+`<html>` `<html>`
+These are the second mandatory tags that come, you know, second to the '!DOCTYPE html' one. It includes all HTML elements.
+
+## Glossary
+
+DTD: document type definition: a description of the different types of elements and markup tags allowable in a particular SGML, XML, or HTML document and where they can occur within the document.
