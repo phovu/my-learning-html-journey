@@ -9,7 +9,11 @@ I'm incredibly lucky to join Amherst College in Spring 2022. Out of the overabun
 
 Okay, so just remember that everything starts with `!DOCTYPE html`
 
-`<!DOCTYPE html>` is the first line that you have to start with on any HTML document. It is like a phrase that signals to the browser that the language they will communicate with each other from now on will be switched to all-HTML. Imagine you and your besties were bilingual and you guys could speak English as a second language with indetical mother tongue (say, Vietnamese). Sometimes, it is inevitable that you guys may do some code-switching between Vietnamese and English and one of you have to start with something to initiate that conversation's setting.
+`<!DOCTYPE html>`: It is the first line that you have to start with on any HTML document. It is like a phrase that signals to the browser that the language they will communicate with each other from now on will be switched to all-HTML. Imagine you and your besties were bilingual and you guys could speak English as a second language with indetical mother tongue (say, Vietnamese). Sometimes, it is inevitable that you guys may do some code-switching between Vietnamese and English and one of you have to start with something to initiate that conversation's setting.
+
+###### Okie, let's start!
+
+```<!DOCTYPE html>```
 
 `<html>` `<html>`: HTML opening & closing tags
 These are the second mandatory tags that come, um, second to '!DOCTYPE html'. It includes all HTML elements but not definitely not '!DOCTYPE html'. '!DOCTYPE html' covers `<html>` and `<html>`
